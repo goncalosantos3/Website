@@ -11,11 +11,47 @@ body{
     margin: 0;
     padding: 0;
 }
+
 header{
     background: black;
+    background-image: url('imagens/Sawyer_Pilar.png');
+    background-size: 100%;
+    background-position: center;
     padding: 20px;  
-
+    height: 400px;
+    text-align: center;
 }
+
+header .Titulo{
+    text-indent: -1500px;
+}
+
+header .logo a{
+    background-image: url('imagens/genetix.jpg');
+    display: inline-block;
+    background-size: 160px;
+    background-repeat: no-repeat;
+    text-indent: -99999px;
+    height: 90px;
+    width: 160px;
+    position: relative;
+    top: -70px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 15px;
+    margin: 30px; 
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
 section{
     background: white;
     color: gray;
@@ -25,7 +61,8 @@ section{
 }
 
 div{
-    background: red;
+    background: green;
+    color: white;
     margin: auto;
     width: 100px;
 }
