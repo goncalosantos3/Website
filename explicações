@@ -1,8 +1,0 @@
-O HTML serve só para meter merdas no site mas sem qualquer personalização nem design
-
-CSS é uma linguagem que nos permite personalizar o que nós metemos no site anteriormente com HTML
-
-Java Script serve para adicionar funcionalidade ao site e para que ele não seja algo estático.
-Por exemplo, carregas num butão e ele faz um tweet no twitter a dizer: "Aqui é pilar não é pilinha"
-
-No documento HTML entre as tags style só se encontra CSS e não HTML
